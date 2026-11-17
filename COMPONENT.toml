@@ -3,7 +3,7 @@ name = "SigmaOS-arch-reflector"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-reflector component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
